@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="9" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[The title of the page isAlchemy LMS – An LMS Application]]>
+    </line>
+    <line>
+      <![CDATA[The header of the page is-Learn from Industry Experts]]>
+    </line>
+    <line>
+      <![CDATA[Info Box Title is-Actionable Training]]>
+    </line>
+    <line>
+      <![CDATA[Second Course Title is-Email Marketing Strategies]]>
+    </line>
+    <line>
+      <![CDATA[The navigated page title is- My Account – Alchemy LMS]]>
+    </line>
+    <line>
+      <![CDATA[User is logged in Successfully and his name is-root]]>
+    </line>
+    <line>
+      <![CDATA[Number of Courses: 3]]>
+    </line>
+    <line>
+      <![CDATA[After Submission message isThanks for contacting us! We will be in touch with you shortly.]]>
+    </line>
+  </reporter-output>
+  <suite name="AssignmentLMS" duration-ms="275195" started-at="2020-09-10T17:00:43 IST" finished-at="2020-09-10T17:05:18 IST">
+    <groups>
+    </groups>
+    <test name="TestCase1" duration-ms="29216" started-at="2020-09-10T17:00:43 IST" finished-at="2020-09-10T17:01:12 IST">
+      <class name="lmsProject.testCaseOne">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseOne@3d99d22e]" name="beforeMethod" is-config="true" duration-ms="23619" started-at="2020-09-10T17:00:43 IST" finished-at="2020-09-10T17:01:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:lmsProject.testCaseOne@3d99d22e]" name="testCase1" duration-ms="210" started-at="2020-09-10T17:01:07 IST" finished-at="2020-09-10T17:01:07 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[The title of the page isAlchemy LMS – An LMS Application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseOne@3d99d22e]" name="afterMethod" is-config="true" duration-ms="5058" started-at="2020-09-10T17:01:07 IST" finished-at="2020-09-10T17:01:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseOne -->
+    </test> <!-- TestCase1 -->
+    <test name="TestCase2" duration-ms="34824" started-at="2020-09-10T17:01:13 IST" finished-at="2020-09-10T17:01:48 IST">
+      <class name="lmsProject.testCaseTwo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseTwo@d44fc21]" name="beforeMethod" is-config="true" duration-ms="29783" started-at="2020-09-10T17:01:13 IST" finished-at="2020-09-10T17:01:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:lmsProject.testCaseTwo@d44fc21]" name="testCase2" duration-ms="298" started-at="2020-09-10T17:01:43 IST" finished-at="2020-09-10T17:01:43 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[The header of the page is-Learn from Industry Experts]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseTwo@d44fc21]" name="afterMethod" is-config="true" duration-ms="4688" started-at="2020-09-10T17:01:43 IST" finished-at="2020-09-10T17:01:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseTwo -->
+    </test> <!-- TestCase2 -->
+    <test name="TestCase3" duration-ms="23920" started-at="2020-09-10T17:01:48 IST" finished-at="2020-09-10T17:02:12 IST">
+      <class name="lmsProject.testCaseThree">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseThree@184f6be2]" name="beforeMethod" is-config="true" duration-ms="18400" started-at="2020-09-10T17:01:48 IST" finished-at="2020-09-10T17:02:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:lmsProject.testCaseThree@184f6be2]" name="testCase3" duration-ms="573" started-at="2020-09-10T17:02:06 IST" finished-at="2020-09-10T17:02:07 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Info Box Title is-Actionable Training]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseThree@184f6be2]" name="afterMethod" is-config="true" duration-ms="4887" started-at="2020-09-10T17:02:07 IST" finished-at="2020-09-10T17:02:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseThree -->
+    </test> <!-- TestCase3 -->
+    <test name="TestCase4" duration-ms="23197" started-at="2020-09-10T17:02:12 IST" finished-at="2020-09-10T17:02:35 IST">
+      <class name="lmsProject.testCaseFour">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseFour@5f282abb]" name="beforeMethod" is-config="true" duration-ms="18293" started-at="2020-09-10T17:02:12 IST" finished-at="2020-09-10T17:02:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:lmsProject.testCaseFour@5f282abb]" name="testCase4" duration-ms="401" started-at="2020-09-10T17:02:30 IST" finished-at="2020-09-10T17:02:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Second Course Title is-Email Marketing Strategies]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseFour@5f282abb]" name="afterMethod" is-config="true" duration-ms="4472" started-at="2020-09-10T17:02:31 IST" finished-at="2020-09-10T17:02:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseFour -->
+    </test> <!-- TestCase4 -->
+    <test name="TestCase5" duration-ms="26125" started-at="2020-09-10T17:02:35 IST" finished-at="2020-09-10T17:03:01 IST">
+      <class name="lmsProject.testCaseFive">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseFive@15d0c81b]" name="beforeMethod" is-config="true" duration-ms="19157" started-at="2020-09-10T17:02:35 IST" finished-at="2020-09-10T17:02:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase5()[pri:0, instance:lmsProject.testCaseFive@15d0c81b]" name="testCase5" duration-ms="2018" started-at="2020-09-10T17:02:54 IST" finished-at="2020-09-10T17:02:56 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[The navigated page title is- My Account – Alchemy LMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseFive@15d0c81b]" name="afterMethod" is-config="true" duration-ms="4924" started-at="2020-09-10T17:02:56 IST" finished-at="2020-09-10T17:03:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseFive -->
+    </test> <!-- TestCase5 -->
+    <test name="TestCase6" duration-ms="39603" started-at="2020-09-10T17:03:02 IST" finished-at="2020-09-10T17:03:41 IST">
+      <class name="lmsProject.testCaseSix">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseSix@2d8f65a4]" name="beforeMethod" is-config="true" duration-ms="19056" started-at="2020-09-10T17:03:02 IST" finished-at="2020-09-10T17:03:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase6()[pri:0, instance:lmsProject.testCaseSix@2d8f65a4]" name="testCase6" duration-ms="15964" started-at="2020-09-10T17:03:21 IST" finished-at="2020-09-10T17:03:37 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[User is logged in Successfully and his name is-root]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseSix@2d8f65a4]" name="afterMethod" is-config="true" duration-ms="4563" started-at="2020-09-10T17:03:37 IST" finished-at="2020-09-10T17:03:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseSix -->
+    </test> <!-- TestCase6 -->
+    <test name="TestCase7" duration-ms="25468" started-at="2020-09-10T17:03:41 IST" finished-at="2020-09-10T17:04:07 IST">
+      <class name="lmsProject.testCaseSeven">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:lmsProject.testCaseSeven@6ee52dcd]" name="beforeTest" is-config="true" duration-ms="18740" started-at="2020-09-10T17:03:41 IST" finished-at="2020-09-10T17:04:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="coursesCount()[pri:0, instance:lmsProject.testCaseSeven@6ee52dcd]" name="coursesCount" duration-ms="2188" started-at="2020-09-10T17:04:00 IST" finished-at="2020-09-10T17:04:02 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Number of Courses: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- coursesCount -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:lmsProject.testCaseSeven@6ee52dcd]" name="afterTest" is-config="true" duration-ms="4520" started-at="2020-09-10T17:04:02 IST" finished-at="2020-09-10T17:04:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- lmsProject.testCaseSeven -->
+    </test> <!-- TestCase7 -->
+    <test name="TestCase8" duration-ms="29374" started-at="2020-09-10T17:04:07 IST" finished-at="2020-09-10T17:04:36 IST">
+      <class name="lmsProject.testCaseEight">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseEight@5faeada1]" name="beforeMethod" is-config="true" duration-ms="18481" started-at="2020-09-10T17:04:07 IST" finished-at="2020-09-10T17:04:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase8()[pri:0, instance:lmsProject.testCaseEight@5faeada1]" name="testCase8" duration-ms="6479" started-at="2020-09-10T17:04:25 IST" finished-at="2020-09-10T17:04:32 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[After Submission message isThanks for contacting us! We will be in touch with you shortly.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseEight@5faeada1]" name="afterMethod" is-config="true" duration-ms="4394" started-at="2020-09-10T17:04:32 IST" finished-at="2020-09-10T17:04:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseEight -->
+    </test> <!-- TestCase8 -->
+    <test name="TestCase9" duration-ms="42104" started-at="2020-09-10T17:04:36 IST" finished-at="2020-09-10T17:05:18 IST">
+      <class name="lmsProject.testCaseNine">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lmsProject.testCaseNine@7a765367]" name="beforeMethod" is-config="true" duration-ms="18284" started-at="2020-09-10T17:04:36 IST" finished-at="2020-09-10T17:04:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="testCase9()[pri:0, instance:lmsProject.testCaseNine@7a765367]" name="testCase9" duration-ms="19530" started-at="2020-09-10T17:04:55 IST" finished-at="2020-09-10T17:05:14 IST">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div[1]/div/div[2]/div[1]/div[4]/div[2]/form/input[4]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-97E01BO', ip: '9.163.80.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_265'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 23984, moz:profile: C:\Users\RajatSharma\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b077899-eb4c-4f25-88f2-d605383d68f0
+*** Element info: {Using=xpath, value=/html/body/div[1]/div/div[2]/div[1]/div[4]/div[2]/form/input[4]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div[1]/div/div[2]/div[1]/div[4]/div[2]/form/input[4]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-97E01BO', ip: '9.163.80.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_265'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 23984, moz:profile: C:\Users\RajatSharma\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b077899-eb4c-4f25-88f2-d605383d68f0
+*** Element info: {Using=xpath, value=/html/body/div[1]/div/div[2]/div[1]/div[4]/div[2]/form/input[4]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at lmsProject.testCaseNine.testCase9(testCaseNine.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lmsProject.testCaseNine@7a765367]" name="afterMethod" is-config="true" duration-ms="4274" started-at="2020-09-10T17:05:14 IST" finished-at="2020-09-10T17:05:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lmsProject.testCaseNine -->
+    </test> <!-- TestCase9 -->
+  </suite> <!-- AssignmentLMS -->
+</testng-results>

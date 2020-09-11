@@ -1,0 +1,48 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AssignmentLMS">
+    <test name="TestCase1">
+        <classes>
+            <class name="lmsProject.testCaseOne" />
+        </classes>
+    </test>
+    <test name="TestCase2">
+        <classes>
+            <class name="lmsProject.testCaseTwo" />
+    </classes>
+    </test>
+    <test name="TestCase3">
+        <classes>
+            <class name="lmsProject.testCaseThree" />
+    </classes>
+    </test>
+    <test name="TestCase4">
+    <classes>
+            <class name="lmsProject.testCaseFour" />
+    </classes>
+    </test>
+    <test name="TestCase5">
+    <classes>
+            <class name="lmsProject.testCaseFive" />
+    </classes>
+    </test>
+    <test name="TestCase6">
+    <classes>
+            <class name="lmsProject.testCaseSix" />
+    </classes>
+    </test>
+    <test name="TestCase7">
+    <classes>
+            <class name="lmsProject.testCaseSeven" />
+    </classes>
+    </test>
+        <test name="TestCase8">
+    <classes>
+            <class name="lmsProject.testCaseEight" />
+    </classes>
+    </test>
+            <test name="TestCase9">
+    <classes>
+            <class name="lmsProject.testCaseNine" />
+    </classes>
+    </test>
+</suite>
